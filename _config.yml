@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Lan-Tien Hsu"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKKJWFcEDxzKrb5OZ3CMgy_4TBdBHHdcW4_WE0RzZlF6j7i9WFujmRLlCVkS3HNil99sUy8wE6jOetxRrsZeBQ&user=EZst1VUAAAAJ"
 
 # Site Footer
 footer:
